@@ -1,0 +1,10 @@
+E:\Demo\AutoMapperTest\WoBangMaiSDK\bin\Debug\WoBangMaiSDK.dll
+E:\Demo\AutoMapperTest\WoBangMaiSDK\bin\Debug\WoBangMaiSDK.pdb
+E:\Demo\AutoMapperTest\WoBangMaiSDK\bin\Debug\AutoMapper.dll
+E:\Demo\AutoMapperTest\WoBangMaiSDK\bin\Debug\DTcms.Model.dll
+E:\Demo\AutoMapperTest\WoBangMaiSDK\bin\Debug\Newtonsoft.Json.dll
+E:\Demo\AutoMapperTest\WoBangMaiSDK\bin\Debug\AutoMapper.xml
+E:\Demo\AutoMapperTest\WoBangMaiSDK\bin\Debug\Newtonsoft.Json.xml
+E:\Demo\AutoMapperTest\WoBangMaiSDK\obj\Debug\WoBangMaiSDK.csproj.CoreCompileInputs.cache
+E:\Demo\AutoMapperTest\WoBangMaiSDK\obj\Debug\WoBangMaiSDK.dll
+E:\Demo\AutoMapperTest\WoBangMaiSDK\obj\Debug\WoBangMaiSDK.pdb

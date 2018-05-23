@@ -1,0 +1,11 @@
+E:\Demo\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.csprojResolveAssemblyReference.cache
+E:\Demo\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.csproj.CoreCompileInputs.cache
+E:\Demo\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapperTest.exe.config
+E:\Demo\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapperTest.exe
+E:\Demo\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapperTest.pdb
+E:\Demo\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapper.dll
+E:\Demo\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapper.xml
+E:\Demo\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.exe
+E:\Demo\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.pdb
+E:\Demo\AutoMapperTest\AutoMapperTest\bin\Debug\ExpressionParser.Plug.dll
+E:\Demo\AutoMapperTest\AutoMapperTest\bin\Debug\ExpressionParser.Plug.pdb

@@ -1,0 +1,7 @@
+E:\Demo\AutoMapperTest\LinqTest\bin\Debug\LinqTest.exe.config
+E:\Demo\AutoMapperTest\LinqTest\bin\Debug\LinqTest.exe
+E:\Demo\AutoMapperTest\LinqTest\bin\Debug\LinqTest.pdb
+E:\Demo\AutoMapperTest\LinqTest\obj\Debug\LinqTest.csproj.CoreCompileInputs.cache
+E:\Demo\AutoMapperTest\LinqTest\obj\Debug\LinqTest.exe
+E:\Demo\AutoMapperTest\LinqTest\obj\Debug\LinqTest.pdb
+E:\Demo\AutoMapperTest\LinqTest\obj\Debug\LinqTest.csprojResolveAssemblyReference.cache

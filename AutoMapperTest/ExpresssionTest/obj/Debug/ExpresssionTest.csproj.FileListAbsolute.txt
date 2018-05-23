@@ -1,0 +1,11 @@
+E:\Demo\AutoMapperTest\ExpresssionTest\bin\Debug\ExpresssionTest.exe.config
+E:\Demo\AutoMapperTest\ExpresssionTest\bin\Debug\ExpresssionTest.exe
+E:\Demo\AutoMapperTest\ExpresssionTest\bin\Debug\ExpresssionTest.pdb
+E:\Demo\AutoMapperTest\ExpresssionTest\obj\Debug\ExpresssionTest.csprojResolveAssemblyReference.cache
+E:\Demo\AutoMapperTest\ExpresssionTest\obj\Debug\ExpresssionTest.csproj.CoreCompileInputs.cache
+E:\Demo\AutoMapperTest\ExpresssionTest\obj\Debug\ExpresssionTest.exe
+E:\Demo\AutoMapperTest\ExpresssionTest\obj\Debug\ExpresssionTest.pdb
+E:\Demo\AutoMapperTest\ExpresssionTest\bin\Debug\ExpressionParser.Plug.dll
+E:\Demo\AutoMapperTest\ExpresssionTest\bin\Debug\ExpressionParser.Plug.pdb
+E:\Demo\AutoMapperTest\ExpresssionTest\bin\Debug\Newtonsoft.Json.dll
+E:\Demo\AutoMapperTest\ExpresssionTest\bin\Debug\Newtonsoft.Json.xml
